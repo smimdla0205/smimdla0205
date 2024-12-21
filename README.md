@@ -1,8 +1,11 @@
-<h2>Hi 👋, I'm LimSangMin</h2>
+## Hi 👋, I'm LimSangMin
 
-<h3>I am a front-end developer who collaborates smoothly.</h3>
+- 💻 I am **front-end developer** who collaborates smoothly.
+- 📫 sangmin0205@gmail.com
 
-<h3>📚 STACKS</h3>
+<br/>
+
+### 📚 STACKS
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -22,5 +25,8 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <br/>
 </div>
-<h3>💻Git stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205)](https://github.com/smimdla0205/github-readme-stats)
+
+<br/>
+
+### 💻 Git stats
+![sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205&theme=radical&show_icons=true) 
