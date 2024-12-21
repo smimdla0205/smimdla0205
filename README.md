@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm LimSangMin</h1>
+<h2 align="center">Hi 👋, I'm LimSangMin</h2>
+
 <h3 align="center">I am a front-end developer who collaborates smoothly.</h3>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<h3>📚 STACKS</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -19,3 +20,8 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black">
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<br/>
+
+<h3>💻 Git stats</h3>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205&show_icons=true&theme=radical)
