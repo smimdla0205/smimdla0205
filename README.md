@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm LimSangMin</h2>
+<h2>Hi 👋, I'm LimSangMin</h2>
 
-<h3 align="center">I am a front-end developer who collaborates smoothly.</h3>
+<h3>I am a front-end developer who collaborates smoothly.</h3>
 
 <h3>📚 STACKS</h3>
 <div align=center> 
@@ -23,3 +23,4 @@
 <br/>
 </div>
 <h3>💻Git stats</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
