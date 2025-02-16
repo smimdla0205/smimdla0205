@@ -30,3 +30,8 @@
 
 ### 💻 Git stats
 ![sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205&theme=radical&show_icons=true) 
+
+
+### 🏆 Awards
+- 2024 관광데이터활용공모전 최우수상
+_ 2024 관광데이터활용공모전 특별상
