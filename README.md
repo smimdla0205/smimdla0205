@@ -20,23 +20,24 @@ A developer obsessed with removing friction and scaling impact.
 * Next.js + Lambda + API GW + DynamoDB + CloudFront
 * 운영자 1명으로 **상시 운영 가능**한 구조 실현
 * **AWS Korea POC 2,000 USD 확보**
-  🔗 Live: [https://pre.g.sedaily.ai/games](https://pre.g.sedaily.ai/games)
-  💾 GitHub: [https://github.com/smimdla0205/sedaily_game](https://github.com/smimdla0205/sedaily_game)
-  📄 Report: [https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view](https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view)
+
+  - 🔗 Live: [https://pre.g.sedaily.ai/games](https://pre.g.sedaily.ai/games)
+  - 💾 GitHub: [https://github.com/smimdla0205/sedaily_game](https://github.com/smimdla0205/sedaily_game)
+  - 📄 Report: [https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view](https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view)
 
 #### 🎙 AI Script/TTS Automation — 영상 제작 효율화
 
 * 영상 제작 인력 **6명 → 2명** 전환, 동일 산출 유지 (**4.1배 효율화**)
 * 게시 리드타임 **30분 → 5분** (**▲6배 개선**)
-  📄 Ops Report: [https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view](https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view)
+  - 📄 Ops Report: [https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view](https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view)
 
 #### 📰 AI PR1 — 실시간 AI 보도자료 생성 플랫폼
 
 * WebSocket 기반 **실시간 문장 생성 엔진** 구현
 * Bedrock 기반 **저널리즘 학습 프롬프트 설계**
 * 서버리스 + IaC 기반 배포 자동화
-  🔗 Live: [https://pre-pr1.sedaily.ai](https://pre-pr1.sedaily.ai)
-  💾 GitHub: [https://github.com/smimdla0205/sedaily_pr1](https://github.com/smimdla0205/sedaily_pr1)
+  - 🔗 Live: [https://pre-pr1.sedaily.ai](https://pre-pr1.sedaily.ai)
+  - 💾 GitHub: [https://github.com/smimdla0205/sedaily_pr1](https://github.com/smimdla0205/sedaily_pr1)
 
 ---
 
@@ -80,7 +81,7 @@ A developer obsessed with removing friction and scaling impact.
 
 * 2024 관광데이터활용공모전 최우수상
 * 2024 관광데이터활용공모전 특별상
-
+ - GitHub:
 ---
 
 ### 📊 GitHub Stats
