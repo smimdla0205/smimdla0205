@@ -22,7 +22,7 @@
 * **Problem:** 수작업 퀴즈 생성의 비효율성 및 인력 리소스 과다 소요
 * **Solution:** Claude + Bedrock 기반 문제 생성 자동화 및 Serverless 아키텍처 도입
 * **Tech:** `Next.js` `Lambda` `API GW` `DynamoDB` `CloudFront`
-* **Links:** [🔗 Live Service](https://pre.g.sedaily.ai/games) | [💾 GitHub](https://github.com/smimdla0205/sedaily_game) | [📄 Tech Report](https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view)
+* **Links:** [🔗 Live Service](https://pre.g.sedaily.ai) | [💾 GitHub](https://github.com/smimdla0205/sedaily_game) | [📄 Tech Report](https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view)
 
 <br>
 
