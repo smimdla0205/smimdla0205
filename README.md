@@ -1,18 +1,14 @@
-<div align="center">
+### Hi, I'm Lim Sang Min
 
-  <img src="https://github.com/smimdla0205.png" width="150" style="border-radius: 50%;" />
+**Automating Newsrooms with Serverless & AI**
 
-  # Hi, I'm Lim Sang Min
+> 불필요한 마찰을 줄이고, 운영 효율을 극대화하는 것에 집착하는 개발자입니다.
 
-  **Automating Newsrooms with Serverless & AI**
+* 🚀 **Serverless & AI Integration**
+* ⚡ **Workflow Automation**
+* 📉 **Cost Reduction**
 
-  *불필요한 마찰을 줄이고, 운영 효율을 극대화하는 것에 집착하는 개발자입니다.*
-
-  🚀 **Serverless & AI Integration** | ⚡ **Workflow Automation** | 📉 **Cost Reduction**
-
-  [Email](mailto:sangmin0205@gmail.com) • [GitHub](https://github.com/smimdla0205)
-
-</div>
+📧 [sangmin0205@gmail.com](mailto:sangmin0205@gmail.com)
 
 <br>
 
