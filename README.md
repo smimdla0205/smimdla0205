@@ -35,7 +35,7 @@ A developer obsessed with removing friction and scaling impact.
 #### AI Script/TTS Automation
 
 * 영상 콘텐츠 **인력 6 → 2명**, 동일 산출 유지 (효율 4.1배)
-* 게시 리드타임: 수 분 → **수십 초**
+* 리드타임: 수 30분 → **5분**
 
 #### AI PR1 — 보도자료 자동 생성 플랫폼
 
@@ -47,17 +47,30 @@ A developer obsessed with removing friction and scaling impact.
 
 ### 💻 Tech Stack
 
-**Frontend**
-React, Next.js(SSR), TypeScript, Zustand, Storybook
+<div align="left">
 
-**Backend**
-Java, Spring Boot, PostgreSQL, Prisma, Jest
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=zustand&logoColor=white"> 
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"> 
+<br/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> 
+<br/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS_APIGateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
 
-**Cloud & AI**
-AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Route53, Cognito, IaC, AWS Bedrock
-
-**Tools & Automation**
-Playwright, Storybook, GitHub Actions
+</div>
 
 ---
 
@@ -72,11 +85,35 @@ Playwright, Storybook, GitHub Actions
 
 ---
 
+### 🔗 Portfolio Links (Selected)
+
+**AI News Games (Seoul Economic Daily)**
+
+* Live: [https://pre.g.sedaily.ai/games](https://pre.g.sedaily.ai/games)
+* GitHub: [https://github.com/smimdla0205/sedaily_game](https://github.com/smimdla0205/sedaily_game)
+* Report: [https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view](https://drive.google.com/file/d/1_Oiakt01__MqnE4gvHm-4ASm1QoI2Q_8/view)
+
+**AI PR1 – Press Release Auto Writer**
+
+* Live: [https://pre-pr1.sedaily.ai/](https://pre-pr1.sedaily.ai/)
+* GitHub: [https://github.com/smimdla0205/sedaily_pr1](https://github.com/smimdla0205/sedaily_pr1)
+
+**AI Script / TTS Automation**
+
+* Ops Report: [https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view](https://drive.google.com/file/d/1o_aDuRWJQbp8QE6dCvQLsknEPJucVF93/view)
+
+**만디 (Kakao 공모전 최우수상 & 특별상)**
+
+* GitHub: [https://github.com/kakao-traveldata-contest/mandi](https://github.com/kakao-traveldata-contest/mandi)
+
+---
 
 ### 📊 GitHub Stats
-![sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205&theme=radical&show_icons=true) 
 
+![sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=smimdla0205\&theme=radical\&show_icons=true)
 
 ### 🏆 Awards
-- 2024 관광데이터활용공모전 최우수상
-- 2024 관광데이터활용공모전 특별상
+
+* 2024 관광데이터활용공모전 최우수상
+* 2024 관광데이터활용공모전 특별상
+
