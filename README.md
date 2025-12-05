@@ -81,7 +81,7 @@ A developer obsessed with removing friction and scaling impact.
 
 * 2024 관광데이터활용공모전 최우수상
 * 2024 관광데이터활용공모전 특별상
- - GitHub:
+  - GitHub: https://github.com/kakao-traveldata-contest/mandi
 ---
 
 ### 📊 GitHub Stats
