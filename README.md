@@ -36,12 +36,16 @@
 
 <br>
 
-### 📰 AI PR1 — 실시간 AI 보도자료 생성 엔진
-> **Impact: WebSocket 기반 초단위 실시간 문장 생성 및 배포 자동화 구현**
+### 📰 Sedaily-TITLE-HUB
 
-* **Feature:** 저널리즘 스타일을 학습한 Bedrock 프롬프트 설계 & IaC 기반 인프라 관리
-* **Tech:** `WebSocket` `Bedrock` `Serverless` `IaC`
-* **Links:** [🔗 Live Service](https://pre-pr1.sedaily.ai) | [💾 GitHub](https://github.com/smimdla0205/sedaily_pr1)
+**서울경제신문 기자를 위한 AI 제목 추천 플랫폼**
+
+Claude Sonnet 3.5를 활용한 실시간 스트리밍 제목 생성 서비스. WebSocket 기반 양방향 통신과 100% 서버리스 아키텍처로 구현.
+
+**Tech Stack:** `AWS Bedrock` `Lambda` `DynamoDB` `WebSocket` `React` `IaC`  
+**Features:** 프롬프트 버전 관리 · 사용량 추적 · 구독 시스템 · 자동화 배포
+
+[🔗 Live Service](https://pre-pr1.sedaily.ai) | [💾 Repository](https://github.com/smimdla0205/Sedaily_TITLE-HUB)
 
 ---
 
